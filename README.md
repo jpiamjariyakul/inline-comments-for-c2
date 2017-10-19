@@ -1,7 +1,5 @@
-### Github Tutorial
+### In-Line Comment Plugin for Construct 2
 
-####1. [How to Host Files on Github](http://www.labnol.org/internet/free-file-hosting-github/29092/)
+If you got it working, it's all yours!
 
-####2. [Github Gists for Non-Developers](http://www.labnol.org/internet/github-gist-tutorial/28499/)
-
-Append ?raw=true to any file URL on Github to get the direct link.
+If so, pls upload it somewhere so everyone can use it, too... I kinda want it :(
