@@ -12,6 +12,8 @@ TO-DOs
 
 3) Remove the "Destroy" action & any others that are not needed
 
-4) Type anything to the input box without restrictions by the IDE (optional)
+4) When debugging/exporting, DO NOT include the comments.
 
-5) Drink your ovaltine
+5) Type anything to the input box without restrictions by the IDE (optional)
+
+6) Drink your ovaltine (optional)
