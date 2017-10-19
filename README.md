@@ -4,7 +4,7 @@ Similar to other programming IDEs, this should allow the developer to insert the
 
 Contributions welcome (and needed tbh).
 
-####TO-DOs
+TO-DOs
 
 1) Debug with the plugin, without errors
 
